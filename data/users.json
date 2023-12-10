@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "city": "New York"
+    },
+    {
+      "id": 2,
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "city": "Los Angeles"
+    },
+    {
+      "id": 3,
+      "first_name": "Bob",
+      "last_name": "Johnson",
+      "city": "Chicago"
+    },
+    {
+      "id": 4,
+      "first_name": "Alice",
+      "last_name": "Williams",
+      "city": "San Francisco"
+    },
+    {
+      "id": 5,
+      "first_name": "Charlie",
+      "last_name": "Brown",
+      "city": "Seattle"
+    },
+    {
+      "id": 6,
+      "first_name": "Emma",
+      "last_name": "Davis",
+      "city": "Boston"
+    },
+    {
+      "id": 7,
+      "first_name": "Michael",
+      "last_name": "Miller",
+      "city": "Denver"
+    },
+    {
+      "id": 8,
+      "first_name": "Sophia",
+      "last_name": "Moore",
+      "city": "Austin"
+    },
+    {
+      "id": 9,
+      "first_name": "David",
+      "last_name": "Jones",
+      "city": "Phoenix"
+    },
+    {
+      "id": 10,
+      "first_name": "Olivia",
+      "last_name": "Taylor",
+      "city": "Miami"
+    }
+  ]
+}
